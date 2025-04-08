@@ -1,0 +1,14 @@
+LICENCE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/brownian_robot/__init__.py
+src/brownian_robot/brownian.py
+src/brownian_robot.egg-info/PKG-INFO
+src/brownian_robot.egg-info/SOURCES.txt
+src/brownian_robot.egg-info/dependency_links.txt
+src/brownian_robot.egg-info/entry_points.txt
+src/brownian_robot.egg-info/requires.txt
+src/brownian_robot.egg-info/top_level.txt
+tests/test_motion.py

@@ -1,0 +1,2 @@
+[console_scripts]
+brownian-demo = brownian_robot.brownian:run_demo
